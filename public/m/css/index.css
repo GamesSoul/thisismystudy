@@ -1,13 +1,12 @@
-/*µ¼º½À¸*/
-.lt_nav{
-    margin-top: 10px;
-    padding: 0 10px;
+.lt_main .lt_parent .lt_nav {
+  padding: 10px;
+  box-sizing: border-box;
 }
-.lt_nav a{
-    float: left;
-    width: 33.3333%;
+.lt_main .lt_parent .lt_nav a {
+  float: left;
+  width: 33.33%;
 }
-.lt_nav a img{
-    width: 100%;
-    display: block;
+.lt_main .lt_parent .lt_nav a img {
+  width: 100%;
+  display: block;
 }
